@@ -1,2 +1,6 @@
-*.o
 menu
+
+.clang-format
+.clangd
+
+*.o
